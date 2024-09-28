@@ -1,0 +1,9 @@
+[submodule "pronos/gui/engine"]
+	path = pronos/gui/engine
+	url = https://github.com/flutter/engine
+[submodule "blog_os"]
+	path = blog_os
+	url = https://github.com/phil-opp/blog_os
+[submodule "redox"]
+	path = redox
+	url = https://github.com/redox-os/redox
