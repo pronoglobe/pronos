@@ -1,0 +1,70 @@
+# Ignore the target directory, which contains compiled artifacts
+/target/
+
+# Ignore the Cargo.lock file for libraries
+# (but not for binaries, as it ensures reproducible builds)
+# Uncomment the next line if your project is a library
+# /Cargo.lock
+
+# Ignore the .idea directory (JetBrains IDEs)
+.idea/
+
+# Ignore the .vscode directory (Visual Studio Code)
+.vscode/
+
+# Ignore the .DS_Store file (macOS Finder metadata)
+.DS_Store
+
+# Ignore the Thumbs.db file (Windows Explorer metadata)
+Thumbs.db
+
+# Ignore the .env file (environment variables)
+.env
+
+# Ignore the node_modules directory (if using Node.js)
+node_modules/
+
+# Ignore the .pytest_cache directory (if using pytest)
+.pytest_cache/
+
+# Ignore the .mypy_cache directory (if using mypy)
+.mypy_cache/
+
+# Ignore the .coverage file (if using coverage.py)
+.coverage
+
+# Ignore the __pycache__ directory (Python bytecode)
+__pycache__/
+
+# Ignore the .tox directory (if using tox)
+.tox/
+
+# Ignore the .venv directory (Python virtual environment)
+.venv/
+
+# Ignore the .cargo directory (Cargo configuration)
+.cargo/
+
+# Ignore the .rustup directory (Rustup configuration)
+.rustup/
+
+# Ignore the .clippy directory (Clippy configuration)
+.clippy/
+
+# Ignore the .rustfmt directory (Rustfmt configuration)
+.rustfmt/
+
+# Ignore the .swp files (Vim swap files)
+*.swp
+
+# Ignore the .swo files (Vim swap files)
+*.swo
+
+# Ignore the .bak files (backup files)
+*.bak
+
+# Ignore the .tmp files (temporary files)
+*.tmp
+
+# Ignore the .log files (log files)
+*.log
